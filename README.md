@@ -12,7 +12,7 @@ The original animation can be viewed here:
 
 ## 🚀 **Implemented Animation**  
 The implemented version can be viewed here:  
-![Implemented Animation](https://github.com/user-attachments/assets/5464281e-888c-4261-8a6b-f14051cebd43)
+![lovable_heart](https://github.com/user-attachments/assets/ca3d48bb-3dc0-4e44-ad4a-d25eae596db5)
 
 ---
 
